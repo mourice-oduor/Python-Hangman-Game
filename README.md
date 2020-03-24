@@ -6,11 +6,11 @@ This is a Python script of the classic Hangman game.
   The player has specified number turns to guess the word.
   Here, one can easily customize the game by changing the variables.
   
-# This repo contains Hangman games written differently
+ This repo contains Hangman games written differently
 
 # Links to creating the game include: 
 #        https://selftaught.blog/python-tutorial-build-hangman
-         https://inventwithpython.com/chapter9.html
-         https://inventwithpython.com/invent4thed/chapter8.html
+#        https://inventwithpython.com/chapter9.html
+#        https://inventwithpython.com/invent4thed/chapter8.html
 
 
