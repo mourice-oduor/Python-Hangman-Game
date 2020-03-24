@@ -1,5 +1,6 @@
 # Python-Hangman-Game
-This is a Python script of the classic Hangman game.
+This is a Python script of the classic Hangman game. 
+Module used here includes; pygame
 
  In this game, the word to guess is represented by a row of dashes. 
  If the player guess a letter which exists in the word, the script writes it in all its correct positions.
